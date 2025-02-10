@@ -1,4 +1,4 @@
-<h1>Hi, I'm Peter, an <a href="https://linkedin.com/https://github.com/Dle-a/Dle-a/edit/main/README.md">IT Professional</a>☺</h1>
+<h1>Hi, I'm Peter, an <a href="https://github.com/Dle-a/Dle-a/edit/main/README.md">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
