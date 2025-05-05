@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Dle-a/Postinstallation-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dle-a/Ticket-lifecycle-examples-)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dle-a/Configuring-on-premises-active-directory-within-azure-VMs)
+  - [Configuring Active Directory within Azure VMs](https://github.com/Dle-a/Configuring-on-premises-active-directory-within-azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dle-a/Network-sercurity-groups-NSGs-and-inspecting-network-protocols)
 
 <h2>Connect with me:</h2>
