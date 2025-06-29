@@ -16,5 +16,4 @@
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+https://www.linkedin.com/in/peter-a-54ab151a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjEmutlqkSqyqF9Nj7cJgzQ%3D%3D
